@@ -5,7 +5,7 @@
  * followed by a new line, exccept q and e
  * Return: Always 0
  */
-int main(viod)
+int main(void)
 {
 	char la;
 
